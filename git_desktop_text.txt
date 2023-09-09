@@ -1,3 +1,6 @@
 Some text for the Git Desktop Supository
 
+This was made on the second new branch
+
+
 This was added on the first branch
